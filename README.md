@@ -45,7 +45,7 @@ GitHub: [Jgar514](https://github.com/jgar514)
 - Supervised commercial general contracting services in DC, MD, and Northern Virginia.
 - Conducted periodic site visits to evaluate construction/demolition crews' performance.
 - Communicated project issues to GM and relayed client feedback.
-- [Full History](./path/to/full_history/readme.md)
+- [Full History](https://github.com/Jgar514/workhistory/blob/main/README.md)
 
 ## Education
 - **Towson University, Towson, MD** (2015-2017)
