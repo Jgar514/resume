@@ -8,11 +8,19 @@ GitHub: [Jgar514](https://github.com/jgar514)
 
 ## Technical Skills
 
-- **Languages:** JavaScript, HTML, CSS, SQL
-- **Tools:** React.js, Node.js, Express.js, Three.js, React Three Fiber, Theatre.js, Tailwind CSS, Material UI, Framer Motion, Git, Vite, Mendix, MongoDB
+- **Front End:** HTML, CSS, Javascript, TypeScript, React, Tailwind CSS, Vite, Netlify.
+- **Back End:** Node.js, Express, Firebase Functions, JSON Web Tokens, bcrypt, Firebase Authentication, RESTful APIs, Postman, Sanity CMS.
+- **Databases:** MongoDB, Mongoose, Firebase Realtime Database, Cloud Firestore.
 - **Certificates:** Mendix Rapid Developer - 47659, Responsive Web Design - [freecodecamp.org](https://www.freecodecamp.org/certification/fcc2b302e22-9501-496b-811b-b81638c8b757/responsive-web-design)
 
 ## Projects
+
+### Cape St. Claire Web Application - [capestclaire3d.com](https://www.capestclaire3d.com/)
+
+- Utilized OpenStreetMap GIS data and Blender to create a topographically accurate 3D model of Cape St. Claire, Maryland.
+- Developed React components to organize geographic locations into quadrants and implemented event listeners for interactive user
+engagement.
+- [Read More](https://github.com/Jgar514/cscapp)
 
 ### Blackline Contracting Website - [blackline.joshuagarvey.com](https://blackline.joshuagarvey.com/)
 
