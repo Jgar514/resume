@@ -3,7 +3,7 @@
 ## Contact
 
 Email: [Josh.T.Garvey@gmail.com](mailto:Josh.T.Garvey@gmail.com)  
-LinkedIn: [Joshua Garvey](https://www.linkedin.com/in/josh-garvey/)  
+LinkedIn: [in/josh-garvey/](https://www.linkedin.com/in/josh-garvey/)  
 GitHub: [Jgar514](https://github.com/jgar514)
 
 ## Technical Skills
