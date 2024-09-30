@@ -15,6 +15,12 @@ GitHub: [Jgar514](https://github.com/jgar514)
 
 ## Projects
 
+### Immersive 3D Portfolio - [joshuagarvey.com](https://joshuagarvey.com/)
+
+- Built with React, Vite, react-three/fiber, react-three/drei, theatre/core, theatre/r3f, and framer-motion.
+- Provides a visually engaging user experience with interactive scrolling functionality and a 3D model.
+- [Read More](https://github.com/Jgar514/JoshandEllie/blob/main/README.md)
+
 ### Cape St. Claire Web Application - [capestclaire3d.com](https://www.capestclaire3d.com/)
 
 - Utilized OpenStreetMap GIS data and Blender to create a topographically accurate 3D model of Cape St. Claire, Maryland.
@@ -22,17 +28,32 @@ GitHub: [Jgar514](https://github.com/jgar514)
 engagement.
 - [Read More](https://github.com/Jgar514/cscapp)
 
+### Homie [dot] Mobi - [homie.mobi](https://https://homie.mobi/)
+
+- Cut 95% of costs by rewriting a Node.js/Express backend into serverless functions using Firebase, and created a method to store users' contact information in a Firebase Realtime Database.
+- Created a domain name search API, incorporated a blog using Sanity headless CMS, and in app payment processing.
+- [Read More](https://github.com/HomieMobi/Homie.Mobi)
+
 ### Blackline Contracting Website - [blackline.joshuagarvey.com](https://blackline.joshuagarvey.com/)
 
 - Built with Vite, Tailwind CSS, React.
 - Custom UI components with support for light and dark modes.
 - [Read More](https://github.com/Jgar514/blacklinecontracting.com/blob/beta/README.md)
+  
+### Full Stack Mern Application - [no longer live]
 
-### Immersive 3D Portfolio - [joshuagarvey.com](https://joshuagarvey.com/)
+- Utilized Mongoose to model application data, define schemas, and facilitate interaction with MongoDB databases.
+- Implemented authentication, session management, and password hashing functionalities.
+- Deployed the application using Microsoft Azure Web App Services and implemented CI/CD pipelines for automated deployment.
+- [Code Repo](https://github.com/Jgar514/mern-azure)
 
-- Built with React, Vite, react-three/fiber, react-three/drei, theatre/core, theatre/r3f, and framer-motion.
-- Provides a visually engaging user experience with interactive scrolling functionality and a 3D model.
-- [Read More](https://github.com/Jgar514/JoshandEllie/blob/main/README.md)
+### Webslinger NPM Package - [Video Demo](https://youtu.be/Yp3bqXM4nm8?si=qVRPSB7VyL00McKD)
+
+- A CLI tool that sets up a React project using Vite and integrates Tailwind CSS for styling.
+- Initializes Git, creates a GitHub repository with continuous deployment, and pushes the code to GitHub.
+- Initializes Netlify, builds the app for production, and deploys it to Netlify in 47 seconds.
+- [Link To Npm Package](https://www.npmjs.com/package/webslinger)
+- [Link To Repo](https://github.com/Jgar514/npm)
 
 ### Mobile User Interface Design - [ui.joshuagarvey.com](https://ui.joshuagarvey.com/)
 
@@ -65,5 +86,4 @@ engagement.
 
 ## Education
 
-- **Towson University, Towson, MD** (May 2015 -March 2017)
-- **Anne Arundel Community College, Arnold, MD** (Jan 2013 - May 2015)
+- **Associate Of Arts - Anne Arundel Community College** (Arnold, MD - 2023)
