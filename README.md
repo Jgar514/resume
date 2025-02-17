@@ -1,89 +1,112 @@
-<h1 align="center">Joshua Garvey</h1>
+# Joshua Garvey
+**Portfolio:** [JoshuaGarvey.com](https://JoshuaGarvey.com)  
+**Email:** [Josh.T.Garvey@gmail.com](mailto:Josh.T.Garvey@gmail.com)  
+**GitHub:** [github.com/Jgar514](https://github.com/Jgar514)  
 
-## Contact
+## Software Developer  
 
-Email: [Josh.T.Garvey@gmail.com](mailto:Josh.T.Garvey@gmail.com)  
-LinkedIn: [in/josh-garvey/](https://www.linkedin.com/in/josh-garvey/)  
-GitHub: [Jgar514](https://github.com/jgar514)
+### Summary  
+Software developer with expertise in GEOINT, OSINT, and intelligence methodologies. Experienced in high-security federal environments, technical research, and automation. Skilled in full-stack development, cloud technologies, and data analysis, with strong technical writing and reporting abilities.  
 
-## Technical Skills
+## Technical Skills  
 
-- **Front End:** HTML, CSS, Javascript, TypeScript, React, Tailwind CSS, Vite, Netlify.
-- **Back End:** Node.js, Express, Firebase Functions, JSON Web Tokens, bcrypt, Firebase Authentication, RESTful APIs, Postman, Sanity CMS.
-- **Databases:** MongoDB, Mongoose, Firebase Realtime Database, Cloud Firestore.
-- **Certificates:** Mendix Rapid Developer - 47659, Responsive Web Design - [freecodecamp.org](https://www.freecodecamp.org/certification/fcc2b302e22-9501-496b-811b-b81638c8b757/responsive-web-design)
+- **Programming & Development:** JavaScript, HTML, CSS, TypeScript, React, Node.js, Express, Firebase, MongoDB, RESTful APIs  
+- **Geospatial & Intelligence Tools:** ArcGIS, OpenStreetMap, Blender (3D modeling), Google Earth, OSINT techniques  
+- **Cloud & DevOps:** Microsoft Azure, Google Cloud Platform (GCP), Firebase Functions, CI/CD pipelines, Git Version Control  
+- **Cybersecurity & Authentication:** JSON Web Tokens (JWT), bcrypt, Firebase Authentication, Postman  
+- **Automation & Tooling:** CLI Development, scripting with Bash, Netlify deployments, data processing, Google Analytics  
 
-## Projects
+## Certifications  
 
-### Immersive 3D Portfolio - [joshuagarvey.com](https://joshuagarvey.com/)
+- **Mendix Rapid Developer**  
+  *Mendix Academy | 2023*  
+- **Responsive Web Design**  
+  *freeCodeCamp.org | 2022*  
 
-- Built with React, Vite, react-three/fiber, react-three/drei, theatre/core, theatre/r3f, and framer-motion.
-- Provides a visually engaging user experience with interactive scrolling functionality and a 3D model.
-- [Read More](https://github.com/Jgar514/JoshandEllie/blob/main/README.md)
+## Geospatial Intelligence (GEOINT) & Open-Source Intelligence (OSINT)  
 
-### Cape St. Claire Web Application - [capestclaire3d.com](https://www.capestclaire3d.com/)
+### **Drowning Case Study** *(October 2024 - January 2025)*  
+- **ArcGIS StoryMaps:** Conducted a multi-state investigation into five drowning incidents across four states, utilizing geospatial mapping, timeline analysis, and enhanced surveillance footage.  
+- **Geospatial Visualization:** Developed a virtual 3D walkthrough of incident locations, measured movement distances, and conducted geographic comparisons using GIS tools.  
 
-- Utilized OpenStreetMap GIS data and Blender to create a topographically accurate 3D model of Cape St. Claire, Maryland.
-- Developed React components to organize geographic locations into quadrants and implemented event listeners for interactive user
-engagement.
-- [Read More](https://github.com/Jgar514/cscapp)
+### **Cape St. Claire Web Application** *(July 2024 - September 2024)*  
+- **[Live Site](#)** | **[Code Repository](#)**  
+- Utilized OpenStreetMap GIS data and Blender to create a topographically accurate 3D model of Cape St. Claire, MD.  
+- Developed React-based interactive quadrants to organize geographic locations and implemented event-driven mapping interactions.  
 
-### Homie [dot] Mobi - [homie.mobi](https://https://homie.mobi/)
+## Software Development & Automation Projects  
 
-- Cut 95% of costs by rewriting a Node.js/Express backend into serverless functions using Firebase, and created a method to store users' contact information in a Firebase Realtime Database.
-- Created a domain name search API, incorporated a blog using Sanity headless CMS, and in app payment processing.
-- [Read More](https://github.com/HomieMobi/Homie.Mobi)
+### **Webslinger NPM Package** *(June 2024 - July 2024)*  
+- **[NPM Package](#)** | **[Code Repository](#)**  
+- Created a CLI tool that automates React project setup, GitHub repository creation, and Netlify deployment.  
+- Reduces manual setup time, deploying a production-ready app in under 47 seconds.  
 
-### Blackline Contracting Website - [blackline.joshuagarvey.com](https://blackline.joshuagarvey.com/)
+### **Homie.Mobi** *(March 2024 - May 2024)*  
+- **[Live Site](#)** | **[Code Repository](#)**  
+- Migrated Node.js/Express backend to serverless Firebase functions, reducing operational costs by 95%.  
+- Built a domain search tool with Name.com's API for real-time availability checks and integrated Stripe for seamless online payments.  
 
-- Built with Vite, Tailwind CSS, React.
-- Custom UI components with support for light and dark modes.
-- [Read More](https://github.com/Jgar514/blacklinecontracting.com/blob/beta/README.md)
-  
-### Full Stack Mern Application - [no longer live]
+### **Full Stack MERN Application** *(January 2024 - February 2024)*  
+- **[Code Repository](#)**  
+- Implemented secure authentication and password hashing for a full-stack application using MongoDB, Express, React, and Node.js.  
+- Deployed application to Microsoft Azure with CI/CD pipeline automation.  
 
-- Utilized Mongoose to model application data, define schemas, and facilitate interaction with MongoDB databases.
-- Implemented authentication, session management, and password hashing functionalities.
-- Deployed the application using Microsoft Azure Web App Services and implemented CI/CD pipelines for automated deployment.
-- [Code Repo](https://github.com/Jgar514/mern-azure)
+## Front-End Development & UI Optimization  
 
-### Webslinger NPM Package - [Video Demo](https://youtu.be/Yp3bqXM4nm8?si=qVRPSB7VyL00McKD)
+### **General Contractor Website** *(October 2023 - November 2023)*  
+- **[Live Site](#)** | **[Code Repository](#)**  
+- Developed a responsive business website with dark theme toggle.  
+- Used JavaScript's map function to dynamically serve and display business services from a structured data file, improving data organization and scalability.  
 
-- A CLI tool that sets up a React project using Vite and integrates Tailwind CSS for styling.
-- Initializes Git, creates a GitHub repository with continuous deployment, and pushes the code to GitHub.
-- Initializes Netlify, builds the app for production, and deploys it to Netlify in 47 seconds.
-- [Link To Npm Package](https://www.npmjs.com/package/webslinger)
-- [Link To Repo](https://github.com/Jgar514/npm)
+### **Mobile UI** *(August 2023 - September 2023)*  
+- **[Live Site](#)** | **[Code Repository](#)**  
+- Designed an interface optimized for mobile navigation with tab boxes, horizontal sliders, and popup modals using React and Tailwind CSS.  
+- Wrote custom reusable components for mobile UX/UI.  
 
-### Mobile User Interface Design - [ui.joshuagarvey.com](https://ui.joshuagarvey.com/)
+### **JavaScript Pop-up Advertisement** *(March 2023)*  
+- **[Live Site](#)** | **[Code Repository](#)**  
+- Wrote an event listener that triggers the popup function when the user scrolls.  
+- Conditionally rendered a skip button when time requirements are met.  
 
-- Created with React, Vite, Tailwind CSS, React-Icons.
-- Custom mobile user interface designed to fit the length of one screen size, incorporating a tab box and horizontal card scrolling.
-- [Read More](https://github.com/Jgar514/mobileUI_subdomain_netlify/blob/main/README.md)
+## Education  
 
-### Pop-Up Advertisement Modal on Scroll - [popup.joshuagarvey.com](https://popup.joshuagarvey.com/)
+### **Associate of Arts**  
+*Anne Arundel Community College | Arnold, MD | 2023*  
 
-- Developed using HTML, CSS, JavaScript.
-- Displays a logical IF-based advertisement upon scrolling, including a countdown feature.
-- [Read More](https://github.com/Jgar514/subdomain_popup/blob/main/README.md)
+### **Towson University Coursework**  
+*Towson University | Towson, MD | 2015–2016*  
+- Computing & Information Technology  
+- Calculus for Applications  
+- Writing for Business & Industry  
+- Enterprise Information Systems  
+- Leadership  
 
-### Snow Removal Dashboard (Video Demonstration) - [Watch Video](https://www.youtube.com/watch?v=mOTKgQKJZSM)
+## Professional Experience  
 
-- Utilized Mendix Studio Pro, CSS, Sass, Google Map API, Mendix Marketplace Widgets, User Stories, Database Relationships.
-- Project management application for snow removal companies, facilitating task and project creation, resource assignment, progress monitoring, and team communication.
-- [Read More](https://github.com/Jgar514/removeSnow/blob/main/README.md)
+### **Commercial Technician**  
+*Premiere Works | Sterling, VA*  
+*May 2020 - July 2022 | 40 hrs/week*  
+- Managed commercial general contracting projects across DC, Maryland, and Northern Virginia.  
+- Supervised classified facility renovations, including the installation of the CIA Museum ceiling at CIA Headquarters.  
+- Directed renovations for 15+ secured DoD office spaces at Fort Belvoir, ensuring compliance with federal security regulations.  
+- Conducted site visits, supervised contractor teams, and procured materials for multiple government facilities.  
+- Acted as a liaison between project teams and the General Manager, communicating project status and client feedback.  
 
-## Employment
+### **Onsite Supervisor (Independent Contractor)**  
+*Premiere Works | Sterling, VA*  
+*March 2017 - May 2020 | 40 hrs/week*  
+- Supervised on-site renovations for the Government Accountability Office (GAO) and Thurgood Marshall Federal Judiciary Building.  
+- Ensured compliance with federal health and safety regulations at high-security job sites.  
+- Coordinated contractor teams, documented progress, and managed procurement operations.  
 
-### Premiere Works, Sterling, VA
+## Security Clearance & Federal Work Experience  
 
-**Commercial Technician** (March 2017 - July 2022)
-
-- Supervised commercial general contracting services in DC, MD, and Northern Virginia.
-- Conducted periodic site visits to evaluate construction/demolition crews' performance.
-- Communicated project issues to GM and relayed client feedback.
-- [Full History](https://github.com/Jgar514/workhistory/blob/main/README.md)
-
-## Education
-
-- **Associate Of Arts - Anne Arundel Community College** (Arnold, MD - 2023)
+- **Department of Defense (DoD) Contractor Badge** *(NE Contractor – expired)* for secure federal sites.  
+- Extensive experience working at secure government facilities, including:  
+  - **Central Intelligence Agency (CIA) Headquarters**  
+  - **Department of Homeland Security (DHS)**  
+  - **Fort Belvoir (U.S. Army, DoD-affiliated)**  
+  - **Government Accountability Office (GAO)**  
+  - **Thurgood Marshall Federal Judiciary Building**  
+  - **Federal Deposit Insurance Corporation (FDIC)**  
+  - **Amazon Secure Data Warehouse**  
